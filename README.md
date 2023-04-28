@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpaceCowboyMac
+- 👀 I’m interested in space, videogames, and Plants
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on any homework or projects I have difficulty with.
+- 📫 How to reach me through discord, which is Mac OS-X#9479
